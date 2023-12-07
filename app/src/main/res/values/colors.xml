@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#32FEAC</color>
+    <color name="buttonbiru">#3CB27B</color>
+    <color name="buttonpenginapanspotwisata">#57CFA9</color>
+    <color name="tampilanatasbiru">#18E1C3</color>
+    <color name="textisi">#969BAB </color>
+    <color name="textfield">#F3F8FF </color>
+    <color name="kosoong">#00B1B1B1</color>
+    <color name="updatecollortheme">#008E40</color>
+    <color name="abu">#6C6C6C</color>
+    <color name="search">#D5D5D5</color>
+</resources>

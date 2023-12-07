@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fagmentnavbarhome" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/buttonbiru</item>
+        <item name="colorPrimaryVariant">#FF000000</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorSecondary">#32BCFE</item>
+    </style>
+</resources>
